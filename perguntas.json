@@ -1,0 +1,503 @@
+{
+  "facil": [
+    {
+      "id": 1,
+      "pergunta": "Qual foi o primeiro documento escrito em terras brasileiras, considerado o marco inicial da literatura brasileira?",
+      "resposta": "A Carta de Pero Vaz de Caminha",
+      "opcoes": [
+        "A Carta de Pero Vaz de Caminha",
+        "Os Lusíadas",
+        "Auto da Barca do Inferno",
+        "Sermão da Sexagésima"
+      ]
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual movimento literário brasileiro é conhecido por sua idealização da natureza e do amor, e pela busca de uma vida simples no campo?",
+      "resposta": "Arcadismo",
+      "opcoes": [
+        "Romantismo",
+        "Arcadismo",
+        "Barroco",
+        "Realismo"
+      ]
+    },
+    {
+      "id": 3,
+      "pergunta": "Quem é o autor de 'Memórias Póstumas de Brás Cubas' e 'Dom Casmurro'?",
+      "resposta": "Machado de Assis",
+      "opcoes": [
+        "José de Alencar",
+        "Machado de Assis",
+        "Aluísio Azevedo",
+        "Lima Barreto"
+      ]
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual foi o evento que marcou o início do Modernismo no Brasil?",
+      "resposta": "A Semana de Arte Moderna de 1922",
+      "opcoes": [
+        "A Proclamação da República",
+        "A Semana de Arte Moderna de 1922",
+        "A Abolição da Escravatura",
+        "A Independência do Brasil"
+      ]
+    },
+    {
+      "id": 5,
+      "pergunta": "Qual o nome do período literário que englobou os primeiros textos escritos em terras brasileiras, no século XVI?",
+      "resposta": "Quinhentismo",
+      "opcoes": [
+        "Quinhentismo",
+        "Barroco",
+        "Arcadismo",
+        "Trovadorismo"
+      ]
+    },
+    {
+      "id": 6,
+      "pergunta": "Quem foi o autor da 'Carta de Achamento do Brasil'?",
+      "resposta": "Pero Vaz de Caminha",
+      "opcoes": [
+        "Padre Anchieta",
+        "Pero Vaz de Caminha",
+        "Tomás Antônio Gonzaga",
+        "José de Alencar"
+      ]
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual a principal característica da literatura de informação no Quinhentismo?",
+      "resposta": "Relatos de viagem e descrição da terra",
+      "opcoes": [
+        "Poesia lírica",
+        "Crítica social",
+        "Relatos de viagem e descrição da terra",
+        "Textos religiosos"
+      ]
+    },
+    {
+      "id": 8,
+      "pergunta": "Qual o movimento literário que se opôs ao racionalismo e valorizou a emoção e a subjetividade?",
+      "resposta": "Romantismo",
+      "opcoes": [
+        "Realismo",
+        "Arcadismo",
+        "Romantismo",
+        "Parnasianismo"
+      ]
+    },
+    {
+      "id": 9,
+      "pergunta": "Qual o principal autor do Arcadismo brasileiro?",
+      "resposta": "Tomás Antônio Gonzaga",
+      "opcoes": [
+        "Cláudio Manuel da Costa",
+        "Manuel Bandeira",
+        "Tomás Antônio Gonzaga",
+        "Gregório de Matos"
+      ]
+    },
+    {
+      "id": 10,
+      "pergunta": "Qual obra de Machado de Assis é considerada um marco do Realismo brasileiro?",
+      "resposta": "Memórias Póstumas de Brás Cubas",
+      "opcoes": [
+        "Iracema",
+        "O Cortiço",
+        "Memórias Póstumas de Brás Cubas",
+        "O Guarani"
+      ]
+    },
+    {
+      "id": 11,
+      "pergunta": "Qual o nome do movimento literário que buscava a objetividade e a perfeição formal na poesia?",
+      "resposta": "Parnasianismo",
+      "opcoes": [
+        "Simbolismo",
+        "Modernismo",
+        "Parnasianismo",
+        "Romantismo"
+      ]
+    },
+    {
+      "id": 12,
+      "pergunta": "Qual o principal tema do Simbolismo brasileiro?",
+      "resposta": "Subjetividade e espiritualidade",
+      "opcoes": [
+        "Crítica social",
+        "Nacionalismo",
+        "Subjetividade e espiritualidade",
+        "Realidade cotidiana"
+      ]
+    },
+    {
+      "id": 13,
+      "pergunta": "Qual o período literário que antecedeu o Modernismo e apresentou características de transição?",
+      "resposta": "Pré-Modernismo",
+      "opcoes": [
+        "Parnasianismo",
+        "Simbolismo",
+        "Pré-Modernismo",
+        "Realismo"
+      ]
+    },
+    {
+      "id": 14,
+      "pergunta": "Qual o nome do autor de 'O Cortiço', obra que representa o Naturalismo brasileiro?",
+      "resposta": "Aluísio Azevedo",
+      "opcoes": [
+        "Machado de Assis",
+        "José de Alencar",
+        "Aluísio Azevedo",
+        "Manuel Antônio de Almeida"
+      ]
+    },
+    {
+      "id": 15,
+      "pergunta": "Qual a principal característica da prosa romântica indianista?",
+      "resposta": "Idealização do indígena como herói nacional",
+      "opcoes": [
+        "Crítica aos costumes urbanos",
+        "Foco na vida rural",
+        "Idealização do indígena como herói nacional",
+        "Análise psicológica profunda"
+      ]
+    }
+  ],
+  "medio": [
+    {
+      "id": 6,
+      "pergunta": "No Barroco brasileiro, qual dualidade marcante é frequentemente explorada nas obras?",
+      "resposta": "Antropocentrismo versus Teocentrismo",
+      "opcoes": [
+        "Amor versus Ódio",
+        "Antropocentrismo versus Teocentrismo",
+        "Cidade versus Campo",
+        "Passado versus Futuro"
+      ]
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual autor romântico brasileiro é conhecido por suas obras indianistas, como 'Iracema' e 'O Guarani'?",
+      "resposta": "José de Alencar",
+      "opcoes": [
+        "Gonçalves Dias",
+        "José de Alencar",
+        "Álvares de Azevedo",
+        "Castro Alves"
+      ]
+    },
+    {
+      "id": 8,
+      "pergunta": "Qual característica principal diferencia o Naturalismo do Realismo no Brasil?",
+      "resposta": "O Naturalismo foca na zoomorfização e no determinismo biológico",
+      "opcoes": [
+        "O Naturalismo é mais romântico",
+        "O Naturalismo foca na zoomorfização e no determinismo biológico",
+        "O Naturalismo é mais subjetivo",
+        "O Naturalismo valoriza mais a forma"
+      ]
+    },
+    {
+      "id": 9,
+      "pergunta": "Qual foi o principal objetivo da literatura catequética no Quinhentismo?",
+      "resposta": "A catequização dos povos indígenas brasileiros",
+      "opcoes": [
+        "Documentar as riquezas do Brasil",
+        "A catequização dos povos indígenas brasileiros",
+        "Criticar a sociedade colonial",
+        "Exaltar a natureza brasileira"
+      ]
+    },
+    {
+      "id": 10,
+      "pergunta": "Qual poeta barroco brasileiro ficou conhecido como 'Boca do Inferno'?",
+      "resposta": "Gregório de Matos",
+      "opcoes": [
+        "Padre Antônio Vieira",
+        "Gregório de Matos",
+        "Bento Teixeira",
+        "Manuel Botelho de Oliveira"
+      ]
+    },
+    {
+      "id": 16,
+      "pergunta": "Qual a principal característica do conceptismo no Barroco?",
+      "resposta": "Jogo de ideias e raciocínio lógico",
+      "opcoes": [
+        "Jogo de palavras e linguagem rebuscada",
+        "Subjetividade e emoção",
+        "Jogo de ideias e raciocínio lógico",
+        "Crítica social e política"
+      ]
+    },
+    {
+      "id": 17,
+      "pergunta": "Qual a principal característica do cultismo no Barroco?",
+      "resposta": "Jogo de palavras e linguagem rebuscada",
+      "opcoes": [
+        "Jogo de ideias e raciocínio lógico",
+        "Subjetividade e emoção",
+        "Jogo de palavras e linguagem rebuscada",
+        "Crítica social e política"
+      ]
+    },
+    {
+      "id": 18,
+      "pergunta": "Qual a expressão latina que significa 'aproveitar o momento' e é comum no Arcadismo?",
+      "resposta": "Carpe Diem",
+      "opcoes": [
+        "Fugere Urbem",
+        "Locus Amoenus",
+        "Carpe Diem",
+        "Aurea Mediocritas"
+      ]
+    },
+    {
+      "id": 19,
+      "pergunta": "Qual a principal característica da segunda fase do Romantismo brasileiro?",
+      "resposta": "Morbidez, pessimismo e ultra-romantismo",
+      "opcoes": [
+        "Indianismo e nacionalismo",
+        "Crítica social e política",
+        "Morbidez, pessimismo e ultra-romantismo",
+        "Linguagem objetiva"
+      ]
+    },
+    {
+      "id": 20,
+      "pergunta": "Qual o nome do autor de 'O Cortiço', obra que representa o Naturalismo brasileiro?",
+      "resposta": "Aluísio Azevedo",
+      "opcoes": [
+        "Machado de Assis",
+        "José de Alencar",
+        "Aluísio Azevedo",
+        "Manuel Antônio de Almeida"
+      ]
+    },
+    {
+      "id": 21,
+      "pergunta": "Qual a principal característica do Parnasianismo brasileiro?",
+      "resposta": "Busca pela perfeição formal e objetividade",
+      "opcoes": [
+        "Subjetividade e espiritualidade",
+        "Crítica social e política",
+        "Busca pela perfeição formal e objetividade",
+        "Nacionalismo e indianismo"
+      ]
+    },
+    {
+      "id": 22,
+      "pergunta": "Qual o nome do principal autor do Simbolismo brasileiro?",
+      "resposta": "Cruz e Sousa",
+      "opcoes": [
+        "Alphonsus de Guimaraens",
+        "Olavo Bilac",
+        "Cruz e Sousa",
+        "Augusto dos Anjos"
+      ]
+    },
+    {
+      "id": 23,
+      "pergunta": "Qual a principal característica do Pré-Modernismo?",
+      "resposta": "Transição entre estéticas passadas e o Modernismo",
+      "opcoes": [
+        "Ruptura total com o passado",
+        "Valorização do indianismo",
+        "Transição entre estéticas passadas e o Modernismo",
+        "Foco exclusivo na vida urbana"
+      ]
+    },
+    {
+      "id": 24,
+      "pergunta": "Qual o nome da obra que marcou o início do Modernismo no Brasil?",
+      "resposta": "A Semana de Arte Moderna de 1922",
+      "opcoes": [
+        "Os Sertões",
+        "Macunaíma",
+        "A Semana de Arte Moderna de 1922",
+        "Vidas Secas"
+      ]
+    },
+    {
+      "id": 25,
+      "pergunta": "Qual a principal característica da prosa da segunda fase do Modernismo brasileiro?",
+      "resposta": "Caráter regional e realismo social",
+      "opcoes": [
+        "Inovação e antiacademicismo",
+        "Subjetividade e misticismo",
+        "Caráter regional e realismo social",
+        "Foco na vida urbana e costumes burgueses"
+      ]
+    }
+  ],
+  "dificil": [
+    {
+      "id": 11,
+      "pergunta": "No Arcadismo, o que significa a expressão latina 'fugere urbem' e como ela se manifesta nas obras?",
+      "resposta": "Significa 'fugir da cidade' e manifesta-se na valorização da vida no campo",
+      "opcoes": [
+        "Significa 'aproveitar o momento' e manifesta-se no hedonismo",
+        "Significa 'fugir da cidade' e manifesta-se na valorização da vida no campo",
+        "Significa 'cortar o inútil' e manifesta-se na simplicidade formal",
+        "Significa 'lugar ameno' e manifesta-se na descrição de paisagens"
+      ]
+    },
+    {
+      "id": 12,
+      "pergunta": "Qual a principal diferença entre a primeira e a segunda fase do Modernismo brasileiro?",
+      "resposta": "A primeira foi mais radical e inovadora, a segunda mais construtiva e social",
+      "opcoes": [
+        "A primeira foi mais social, a segunda mais estética",
+        "A primeira foi mais radical e inovadora, a segunda mais construtiva e social",
+        "A primeira foi mais regionalista, a segunda mais urbana",
+        "A primeira foi mais pessimista, a segunda mais otimista"
+      ]
+    },
+    {
+      "id": 13,
+      "pergunta": "No Romantismo, qual característica da prosa urbana se opõe à prosa regionalista?",
+      "resposta": "Focava nos costumes da elite burguesa do Rio de Janeiro",
+      "opcoes": [
+        "Criticava mais a sociedade",
+        "Focava nos costumes da elite burguesa do Rio de Janeiro",
+        "Era mais pessimista",
+        "Valorizava mais a natureza"
+      ]
+    },
+    {
+      "id": 14,
+      "pergunta": "Qual a peculiaridade do Parnasianismo brasileiro em relação à sua objetividade?",
+      "resposta": "Nem sempre seguiu a objetividade à risca, apresentando aspectos subjetivos",
+      "opcoes": [
+        "Foi mais objetivo que o europeu",
+        "Nem sempre seguiu a objetividade à risca, apresentando aspectos subjetivos",
+        "Rejeitou completamente a subjetividade",
+        "Focou apenas na forma"
+      ]
+    },
+    {
+      "id": 15,
+      "pergunta": "O que é o 'conceptismo' no Barroco e qual autor brasileiro é um exemplo?",
+      "resposta": "É o jogo de ideias e raciocínio lógico; Padre Antônio Vieira é um exemplo",
+      "opcoes": [
+        "É o jogo de palavras; Gregório de Matos é um exemplo",
+        "É o jogo de ideias e raciocínio lógico; Padre Antônio Vieira é um exemplo",
+        "É a valorização da forma; Bento Teixeira é um exemplo",
+        "É a crítica social; Gregório de Matos é um exemplo"
+      ]
+    },
+    {
+      "id": 16,
+      "pergunta": "Qual a importância da 'Carta de Pero Vaz de Caminha' para a literatura brasileira?",
+      "resposta": "É o primeiro registro escrito sobre o Brasil, marcando o início da literatura brasileira",
+      "opcoes": [
+        "É o primeiro poema épico brasileiro",
+        "É o primeiro registro escrito sobre o Brasil, marcando o início da literatura brasileira",
+        "É a primeira obra teatral brasileira",
+        "É o primeiro romance indianista"
+      ]
+    },
+    {
+      "id": 17,
+      "pergunta": "Como o Arcadismo se manifesta na poesia de Cláudio Manuel da Costa?",
+      "resposta": "Pelo bucolismo, pastoralismo e uso de pseudônimos arcádicos",
+      "opcoes": [
+        "Pela crítica social e política",
+        "Pelo bucolismo, pastoralismo e uso de pseudônimos arcádicos",
+        "Pela exaltação da natureza selvagem",
+        "Pela linguagem rebuscada e dualidade"
+      ]
+    },
+    {
+      "id": 18,
+      "pergunta": "Explique a diferença entre a prosa indianista e a prosa urbana do Romantismo brasileiro.",
+      "resposta": "A indianista idealiza o indígena e a natureza, a urbana foca nos costumes da elite carioca",
+      "opcoes": [
+        "A indianista critica a sociedade, a urbana exalta o campo",
+        "A indianista idealiza o indígena e a natureza, a urbana foca nos costumes da elite carioca",
+        "A indianista é mais pessimista, a urbana mais otimista",
+        "A indianista tem finais trágicos, a urbana finais felizes"
+      ]
+    },
+    {
+      "id": 19,
+      "pergunta": "Qual a contribuição de Aluísio Azevedo para o Naturalismo brasileiro?",
+      "resposta": "Retratou a influência do meio e da hereditariedade no comportamento humano em obras como 'O Cortiço'",
+      "opcoes": [
+        "Introduziu o fluxo de consciência na narrativa",
+        "Retratou a influência do meio e da hereditariedade no comportamento humano em obras como 'O Cortiço'",
+        "Focou na análise psicológica dos personagens",
+        "Idealizou a vida no campo"
+      ]
+    },
+    {
+      "id": 20,
+      "pergunta": "Como o Simbolismo se opôs ao Realismo e ao Parnasianismo?",
+      "resposta": "Valorizando a subjetividade, a espiritualidade e a musicalidade em detrimento da objetividade e do formalismo",
+      "opcoes": [
+        "Pela crítica social e política",
+        "Pela busca da perfeição formal",
+        "Valorizando a subjetividade, a espiritualidade e a musicalidade em detrimento da objetividade e do formalismo",
+        "Pela exaltação da razão"
+      ]
+    },
+    {
+      "id": 21,
+      "pergunta": "Qual a importância da Semana de Arte Moderna de 1922 para o Modernismo brasileiro?",
+      "resposta": "Marcos de ruptura com o academicismo e o início da busca por uma identidade cultural brasileira",
+      "opcoes": [
+        "Consolidou o Parnasianismo no Brasil",
+        "Marcos de ruptura com o academicismo e o início da busca por uma identidade cultural brasileira",
+        "Retomou os ideais românticos",
+        "Focou na literatura de informação"
+      ]
+    },
+    {
+      "id": 22,
+      "pergunta": "Quais as principais características da segunda fase do Modernismo brasileiro na poesia?",
+      "resposta": "Temática contemporânea, crítica sociopolítica e conflito existencial",
+      "opcoes": [
+        "Inovação e antiacademicismo",
+        "Rigor formal e objetividade",
+        "Temática contemporânea, crítica sociopolítica e conflito existencial",
+        "Bucolismo e pastoralismo"
+      ]
+    },
+    {
+      "id": 23,
+      "pergunta": "Como o Pré-Modernismo preparou o terreno para o Modernismo?",
+      "resposta": "Apresentando elementos de estéticas passadas e novas, como o nacionalismo crítico e o realismo social",
+      "opcoes": [
+        "Ignorando completamente as estéticas anteriores",
+        "Focando apenas na inovação formal",
+        "Apresentando elementos de estéticas passadas e novas, como o nacionalismo crítico e o realismo social",
+        "Valorizando o academicismo"
+      ]
+    },
+    {
+      "id": 24,
+      "pergunta": "Qual a visão de mundo do Barroco e como ela se reflete nas obras?",
+      "resposta": "Visão trágica da existência, pessimismo e reflexão sobre a efemeridade da vida",
+      "opcoes": [
+        "Otimismo e valorização da vida terrena",
+        "Visão trágica da existência, pessimismo e reflexão sobre a efemeridade da vida",
+        "Racionalismo e busca pela perfeição",
+        "Idealização da natureza e do amor"
+      ]
+    },
+    {
+      "id": 25,
+      "pergunta": "Qual a importância de Machado de Assis para a literatura brasileira, especialmente no Realismo?",
+      "resposta": "Sua análise psicológica profunda e crítica à sociedade burguesa o tornam um dos maiores escritores",
+      "opcoes": [
+        "Sua idealização do indígena como herói nacional",
+        "Sua análise psicológica profunda e crítica à sociedade burguesa o tornam um dos maiores escritores",
+        "Sua defesa da 'arte pela arte'",
+        "Sua contribuição para a literatura catequética"
+      ]
+    }
+  ]
+}
